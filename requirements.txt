@@ -1,3 +1,4 @@
 cloudscraper
 lxml
 beautifulsoup4
+gunicorn
