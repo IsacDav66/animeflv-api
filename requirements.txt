@@ -2,4 +2,4 @@ cloudscraper
 lxml
 beautifulsoup4
 gunicorn
-flask==2.0.2
+flask
